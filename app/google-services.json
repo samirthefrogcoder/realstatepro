@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1076456622500",
+    "firebase_url": "https://realstatepro-6c56e-default-rtdb.firebaseio.com",
+    "project_id": "realstatepro-6c56e",
+    "storage_bucket": "realstatepro-6c56e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076456622500:android:75ada5bbd9c5208cdbd931",
+        "android_client_info": {
+          "package_name": "com.example.realstatebuyandsell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVQt3T-Hdv1wK6BeVgnL0Pt2BJX6TfUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076456622500:android:4eef7c76b99e6ba6dbd931",
+        "android_client_info": {
+          "package_name": "com.example.realstatepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVQt3T-Hdv1wK6BeVgnL0Pt2BJX6TfUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
