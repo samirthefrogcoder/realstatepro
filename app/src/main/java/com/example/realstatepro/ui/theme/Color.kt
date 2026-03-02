@@ -2,12 +2,18 @@ package com.example.realstatepro.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Premium Minimalist Palette
+val Black = Color(0xFF0D0D0D)
+val White = Color(0xFFFFFFFF)
+val OffWhite = Color(0xFFF5F5F7)
+val LightGray = Color(0xFFE5E5EA)
+val MediumGray = Color(0xFF8E8E93)
+val DarkGray = Color(0xFF1C1C1E)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
-val Blue = Color(0xFF55CCFC)
-val Gray = Color(0xFF606060)
+// Fancy Accent Colors
+val PremiumGold = Color(0xFFC5A35C) // For a touch of luxury
+val AccentBlue = Color(0xFF007AFF) // Classic iOS-style premium blue
+val SoftGreen = Color(0xFF34C759) // For price or availability tags
+val SoftRed = Color(0xFFFF3B30) // For delete or error states
+val GradientStart = Color(0xFF1A1A1A)
+val GradientEnd = Color(0xFF000000)
